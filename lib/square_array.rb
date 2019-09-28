@@ -1,5 +1,5 @@
-def numbers = [1,2,3]
+def numbers = [10,20,30]
   square_array(numbers)
-    new_numbers = [9,10,16,25]
+    new_numbers = [90,100,160,250]
 square_array(new_numbers)
 end
